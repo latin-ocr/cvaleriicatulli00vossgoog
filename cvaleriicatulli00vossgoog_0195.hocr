@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cvaleriicatulli00vossgoog_0195.png"; bbox 0 0 3635 4378; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 940 153 3039 252">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 940 153 3039 252">
+     <span class='ocr_line' id='line_1_1' title="bbox 940 153 3039 252; baseline 0.002 -26"><span class='ocrx_word' id='word_1_1' title='bbox 940 153 2688 252; x_wconf 33' lang='lat' dir='ltr'>Aac,Vanamuvmcssruz&#39;num.</span> <span class='ocrx_word' id='word_1_2' title='bbox 2891 166 3039 237; x_wconf 68' lang='lat'>1522-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 858 263 3023 495">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 858 263 3023 495">
+     <span class='ocr_line' id='line_1_2' title="bbox 858 263 2470 396; baseline 0.001 -28"><span class='ocrx_word' id='word_1_3' title='bbox 858 282 1106 368; x_wconf 74' lang='lat' dir='ltr'>Nona</span> <span class='ocrx_word' id='word_1_4' title='bbox 1125 263 1272 370; x_wconf 78' lang='lat' dir='ltr'>vir&#39;i</span> <span class='ocrx_word' id='word_1_5' title='bbox 1290 285 1557 396; x_wconf 83' lang='lat' dir='ltr'>speret·</span> <span class='ocrx_word' id='word_1_6' title='bbox 1577 286 1970 368; x_wconf 82' lang='lat' dir='ltr'>sermones</span> <span class='ocrx_word' id='word_1_7' title='bbox 2009 289 2157 370; x_wconf 83' lang='lat' dir='ltr'>effe</span> <span class='ocrx_word' id='word_1_8' title='bbox 2183 288 2470 371; x_wconf 68' lang='lat' dir='ltr'>fidenis:</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 862 393 3023 495; baseline -0.003 -14"><span class='ocrx_word' id='word_1_9' title='bbox 862 400 1069 495; x_wconf 80' lang='lat' dir='ltr'><strong>Quis</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1105 396 1297 480; x_wconf 86' lang='lat' dir='ltr'>dum</span> <span class='ocrx_word' id='word_1_11' title='bbox 1338 397 1632 495; x_wconf 81' lang='lat' dir='ltr'>aliquid</span> <span class='ocrx_word' id='word_1_12' title='bbox 1674 397 1994 495; x_wconf 85' lang='lat' dir='ltr'><strong>cupiens</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2013 397 2715 495; x_wconf 72' lang='lat' dir='ltr'>animuspraegestit</span> <span class='ocrx_word' id='word_1_14' title='bbox 2734 393 3023 495; x_wconf 48' lang='lat' dir='ltr'>apisciy</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

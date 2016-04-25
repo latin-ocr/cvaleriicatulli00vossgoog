@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cvaleriicatulli00vossgoog_0268.png"; bbox 0 0 3635 4378; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 662 149 2747 328">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 662 149 2747 328">
+     <span class='ocr_line' id='line_1_1' title="bbox 662 149 2747 328; baseline -0.001 -54"><span class='ocrx_word' id='word_1_1' title='bbox 662 149 917 328; x_wconf 23' lang='lat'><strong>&#39;²54⁸‘</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1117 199 2747 289; x_wconf 65' lang='lat' dir='ltr'><strong>ivosslomenvu-tonns</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 848 324 2936 536">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 848 324 2936 536">
+     <span class='ocr_line' id='line_1_2' title="bbox 956 324 2444 439; baseline 0.001 -33"><span class='ocrx_word' id='word_1_3' title='bbox 956 324 1237 424; x_wconf 73' lang='lat' dir='ltr'><strong>Quam</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1248 328 1348 415; x_wconf 79' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1371 329 1735 439; x_wconf 79' lang='lat' dir='ltr'>virgineis</span> <span class='ocrx_word' id='word_1_6' title='bbox 1753 327 2084 439; x_wconf 80' lang='lat' dir='ltr'>gesserat</span> <span class='ocrx_word' id='word_1_7' title='bbox 2101 327 2444 410; x_wconf 74' lang='lat' dir='ltr'>exuviis.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 848 393 2936 536; baseline 0.001 -22"><span class='ocrx_word' id='word_1_8' title='bbox 848 393 1087 529; x_wconf 69' lang='lat' dir='ltr'>Estne</span> <span class='ocrx_word' id='word_1_9' title='bbox 1102 442 1337 527; x_wconf 76' lang='lat' dir='ltr'>novis</span> <span class='ocrx_word' id='word_1_10' title='bbox 1358 440 1625 536; x_wconf 81' lang='lat' dir='ltr'>nuptis</span> <span class='ocrx_word' id='word_1_11' title='bbox 1644 440 1856 520; x_wconf 74' lang='lat' dir='ltr'>odxo</span> <span class='ocrx_word' id='word_1_12' title='bbox 1868 437 2203 523; x_wconf 79' lang='lat' dir='ltr'>Venus?</span> <span class='ocrx_word' id='word_1_13' title='bbox 2242 452 2441 518; x_wconf 74' lang='lat' dir='ltr'>anne</span> <span class='ocrx_word' id='word_1_14' title='bbox 2460 456 2870 536; x_wconf 83' lang='lat' dir='ltr'>parentum</span> <span class='ocrx_word' id='word_1_15' title='bbox 2930 451 2936 463; x_wconf 84' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
